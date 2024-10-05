@@ -1,3 +1,5 @@
+//if import is not working kindly change type-module in package.json.
+
 import inquirer from 'inquirer';
 import qr from 'qr-image';
 import fs from "fs"
